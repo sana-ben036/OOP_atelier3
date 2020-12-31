@@ -14,9 +14,9 @@ namespace GestionBibliothéque
 
         }
 
-        public Livre(int num, string titre, string aut, int nPage) : base(num, titre)
+        public Livre(int num, string titre, string auteur, int nPage) : base(num, titre)
         {
-            Auteur = aut;
+            Auteur = auteur;
             NbrPages = nPage;
         }
 

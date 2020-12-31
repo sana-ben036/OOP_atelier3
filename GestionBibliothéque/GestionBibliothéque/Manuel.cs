@@ -9,7 +9,7 @@ namespace GestionBibliothéque
         public int Niveau { get; set; }
 
 
-        public Manuel(int num, string titre, string aut, int nPage, int niv) : base(num, titre, aut, nPage)
+        public Manuel(int num, string titre, string auteur, int nPage, int niv) : base(num, titre, auteur, nPage)
         {
 
             Niveau = niv;

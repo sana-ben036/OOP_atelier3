@@ -1,0 +1,13 @@
+C:\Users\youcode\source\repos\sana-ben036\OOP_atelier3\GestionBibliothéque\GestionBibliothéque\bin\Debug\netcoreapp3.1\GestionBibliothéque.exe
+C:\Users\youcode\source\repos\sana-ben036\OOP_atelier3\GestionBibliothéque\GestionBibliothéque\bin\Debug\netcoreapp3.1\GestionBibliothéque.deps.json
+C:\Users\youcode\source\repos\sana-ben036\OOP_atelier3\GestionBibliothéque\GestionBibliothéque\bin\Debug\netcoreapp3.1\GestionBibliothéque.runtimeconfig.json
+C:\Users\youcode\source\repos\sana-ben036\OOP_atelier3\GestionBibliothéque\GestionBibliothéque\bin\Debug\netcoreapp3.1\GestionBibliothéque.runtimeconfig.dev.json
+C:\Users\youcode\source\repos\sana-ben036\OOP_atelier3\GestionBibliothéque\GestionBibliothéque\bin\Debug\netcoreapp3.1\GestionBibliothéque.dll
+C:\Users\youcode\source\repos\sana-ben036\OOP_atelier3\GestionBibliothéque\GestionBibliothéque\bin\Debug\netcoreapp3.1\GestionBibliothéque.pdb
+C:\Users\youcode\source\repos\sana-ben036\OOP_atelier3\GestionBibliothéque\GestionBibliothéque\obj\Debug\netcoreapp3.1\GestionBibliothéque.csprojAssemblyReference.cache
+C:\Users\youcode\source\repos\sana-ben036\OOP_atelier3\GestionBibliothéque\GestionBibliothéque\obj\Debug\netcoreapp3.1\GestionBibliothéque.AssemblyInfoInputs.cache
+C:\Users\youcode\source\repos\sana-ben036\OOP_atelier3\GestionBibliothéque\GestionBibliothéque\obj\Debug\netcoreapp3.1\GestionBibliothéque.AssemblyInfo.cs
+C:\Users\youcode\source\repos\sana-ben036\OOP_atelier3\GestionBibliothéque\GestionBibliothéque\obj\Debug\netcoreapp3.1\GestionBibliothéque.csproj.CoreCompileInputs.cache
+C:\Users\youcode\source\repos\sana-ben036\OOP_atelier3\GestionBibliothéque\GestionBibliothéque\obj\Debug\netcoreapp3.1\GestionBibliothéque.dll
+C:\Users\youcode\source\repos\sana-ben036\OOP_atelier3\GestionBibliothéque\GestionBibliothéque\obj\Debug\netcoreapp3.1\GestionBibliothéque.pdb
+C:\Users\youcode\source\repos\sana-ben036\OOP_atelier3\GestionBibliothéque\GestionBibliothéque\obj\Debug\netcoreapp3.1\GestionBibliothéque.genruntimeconfig.cache
